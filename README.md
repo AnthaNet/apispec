@@ -37,7 +37,7 @@ It helps frontend, backend, and DevOps teams understand API structure without ma
 ## Run locally
 
 ```
-npm install
+npm install openai dotenv fs path
 cd apispec/src/
 npx serve .
 ```
